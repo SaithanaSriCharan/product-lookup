@@ -2,6 +2,7 @@
 product lookup
 
 
+```html
 <html>
     <head>
     <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui.css">
@@ -31,3 +32,4 @@ oauth2RedirectUrl: window.location.origin + '/docs/oauth2-redirect',
     
     </body>
     </html>
+```
